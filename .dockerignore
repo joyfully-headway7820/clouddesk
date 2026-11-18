@@ -1,0 +1,12 @@
+.git
+.github
+.vs
+.idea
+.vscode
+.devcontainer
+**/bin
+**/obj
+**/*.user
+**/*.md
+.env
+**/.DS_Store
